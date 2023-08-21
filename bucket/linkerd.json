@@ -1,12 +1,12 @@
 {
-    "version": "2.12.4",
+    "version": "2.13.6",
     "description": "An ultralight service mesh for Kubernetes.",
     "homepage": "https://linkerd.io/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/linkerd/linkerd2/releases/download/stable-2.12.4/linkerd2-cli-stable-2.12.4-windows.exe#/linkerd.exe",
-            "hash": "b4101d400e703c82c7857f63e955bf31877e1ceb513f1153ff4fcb6769f85209"
+            "url": "https://github.com/linkerd/linkerd2/releases/download/stable-2.13.6/linkerd2-cli-stable-2.13.6-windows.exe#/linkerd.exe",
+            "hash": "ff49c30fe0dacb5559a3cc27c0a1631eb77d863bec74a515c0b8607220f06beb"
         }
     },
     "bin": "linkerd.exe",
