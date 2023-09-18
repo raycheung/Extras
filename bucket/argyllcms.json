@@ -1,19 +1,19 @@
 {
-    "version": "2.3.1",
+    "version": "3.0.0",
     "description": "Argyll Color Management System",
     "homepage": "https://www.argyllcms.com/",
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://www.argyllcms.com/Argyll_V2.3.1_win64_exe.zip",
-            "hash": "e969340c8a5b5463c899431fd1dd8c59fad2f638e0317c756661c9a5659af588"
+            "url": "https://www.argyllcms.com/Argyll_V3.0.0_win64_exe.zip",
+            "hash": "55fb0e52868e153fba57348ddc8ba7edb6f6e58159f95d52a9176842618da66d"
         },
         "32bit": {
-            "url": "https://www.argyllcms.com/Argyll_V2.3.1_win32_exe.zip",
-            "hash": "68a482623f3210d55ceaeb4312c59b5f93f00e199786d1eb5ead608d6a02e1fc"
+            "url": "https://www.argyllcms.com/Argyll_V3.0.0_win32_exe.zip",
+            "hash": "3c4b33f87b8add01b13fd2e9e13245e00627121c33abfef480e3828a9b54e983"
         }
     },
-    "extract_dir": "Argyll_V2.3.1",
+    "extract_dir": "Argyll_V3.0.0",
     "bin": [
         "bin\\applycal.exe",
         "bin\\average.exe",
