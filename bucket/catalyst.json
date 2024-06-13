@@ -1,12 +1,12 @@
 {
-    "version": "3.8.2",
+    "version": "3.8.3",
     "description": "An Electron/Chromium based web browser",
     "homepage": "https://github.com/JaydenDev/Catalyst",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JaydenDev/Catalyst/releases/download/v3.8.2/catalyst-3.8.2-full.nupkg",
-            "hash": "sha1:6fad6c83dadcdca80979a58dbbf0df806060fff9",
+            "url": "https://github.com/JaydenDev/Catalyst/releases/download/v3.8.3/catalyst-3.8.3-full.nupkg",
+            "hash": "sha1:c0ad445caeeb6d5d8af3cf093dff81bb55aaf91b",
             "extract_dir": "lib\\net45"
         }
     },
