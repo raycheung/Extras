@@ -1,21 +1,21 @@
 {
-    "version": "8.4.9",
+    "version": "8.7.7",
     "description": "A free source code editor and Notepad replacement that supports several languages.",
     "homepage": "https://notepad-plus-plus.org",
     "license": "GPL-3.0-or-later",
     "notes": "Add Notepad++ as a context menu option by running: reg import \"$dir\\install-context.reg\"",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.9/npp.8.4.9.portable.x64.zip",
-            "hash": "a4354a2a8ab1a504bf870bae4469174d80af9dced6534c256a0f5cf7451b1a41"
+            "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.7.7/npp.8.7.7.portable.x64.zip",
+            "hash": "785444e0ce60ab014dc1b20f97692fa2718d43de4db1288252b8ec73831b941c"
         },
         "32bit": {
-            "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.9/npp.8.4.9.portable.zip",
-            "hash": "c8092e411897f0f623696b64a16d92c2772743c12782e5a1c6698af86a065d5f"
+            "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.7.7/npp.8.7.7.portable.zip",
+            "hash": "9211e0784e48fbdbd4ac1166fb34bfd399a9f4066daf71c50975edca5f29a2d5"
         },
         "arm64": {
-            "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.9/npp.8.4.9.portable.arm64.zip",
-            "hash": "10227436259ddf6a892d221d65b55b1dd0147078d54d12b7c4ca0b6b5b5a2fce"
+            "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.7.7/npp.8.7.7.portable.arm64.zip",
+            "hash": "570e103cf3b66e5a6d6892ea34bcc18378ce3661d4927539e0ba79ad1ea56b7d"
         }
     },
     "pre_install": [
