@@ -1,16 +1,16 @@
 {
-    "version": "5.2.0",
+    "version": "5.6.1",
     "description": "Cycle through multiple wallpapers based on the times of sunrise and sunset.",
     "homepage": "https://github.com/t1m0thyj/WinDynamicDesktop",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v5.2.0/WinDynamicDesktop_5.2.0_x64_Portable.exe#/WinDynamicDesktop.exe",
-            "hash": "6337181207232f863c5e0abec18722477f14c6a82e411f506914f3c02c66a660"
+            "url": "https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v5.6.1/WinDynamicDesktop_5.6.1_x64_Portable.exe#/WinDynamicDesktop.exe",
+            "hash": "22bc18ba8623498f8f5fd2fb46ac9f7e4c519a8f2c9ddfc619850de4c9ca2409"
         },
         "32bit": {
-            "url": "https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v5.2.0/WinDynamicDesktop_5.2.0_x86_Portable.exe#/WinDynamicDesktop.exe",
-            "hash": "444db89f941b0d022f88e4ff808ee8a56e5bba575acf391d43841aee3d5518a0"
+            "url": "https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v5.6.1/WinDynamicDesktop_5.6.1_x86_Portable.exe#/WinDynamicDesktop.exe",
+            "hash": "0913a1dc10589034b56bf957744fe9768876d7462f2946d45001ae3166cd3125"
         }
     },
     "pre_install": [
