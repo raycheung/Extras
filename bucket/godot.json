@@ -1,16 +1,16 @@
 {
-    "version": "4.4.1",
+    "version": "3.6.1",
     "description": "A feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface.",
     "homepage": "https://godotengine.org/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/godotengine/godot/releases/download/4.4.1-stable/Godot_v4.4.1-stable_win64.exe.zip",
-            "hash": "1c729738f42e43036a7147838aa9fa56d62101cf90884f315e1ab525e8e69d61"
+            "url": "https://github.com/godotengine/godot/releases/download/3.6.1-stable/Godot_v3.6.1-stable_win64.exe.zip",
+            "hash": "a0500fdd6c57cd463c89334bf2b40f040b16309a6ca768196fe32eb2a8467852"
         },
         "32bit": {
-            "url": "https://github.com/godotengine/godot/releases/download/4.4.1-stable/Godot_v4.4.1-stable_win32.exe.zip",
-            "hash": "f26ec321388b537a568dcc97d2d43902e2aff4afa308d81af6605103e5ec5c9c"
+            "url": "https://github.com/godotengine/godot/releases/download/3.6.1-stable/Godot_v3.6.1-stable_win32.exe.zip",
+            "hash": "18f7e720b468c8bb9902d6c89d4288823d7fe9eeb3c6318bbf4770dcce921254"
         }
     },
     "pre_install": "Get-ChildItem \"$dir\\Godot_*.exe\" | Rename-Item -NewName \"$dir\\godot.exe\"",
