@@ -1,5 +1,5 @@
 {
-    "version": "15.5.0.3100",
+    "version": "15.5.0.3102",
     "description": "A multi-tabbed file manager and is an alternative to the standard Windows Explorer",
     "homepage": "http://multicommander.com/",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "http://multicommander.com/files/updates/MultiCommander_x64_Portable_(15.5.0.3100).zip",
-            "hash": "c7f420e323e669b071b39f26adf97b429450581be24dbf137a1a9482f8034719"
+            "url": "http://multicommander.com/files/updates/MultiCommander_x64_Portable_(15.5.0.3102).zip",
+            "hash": "9aeb100bf9b44166201449faa6df90e8e0c61a6f9ea7d54cbd95ab8b94f3450d"
         },
         "32bit": {
-            "url": "http://multicommander.com/files/updates/MultiCommander_win32_Portable_(15.5.0.3100).zip",
-            "hash": "9f813966c9dd8510d05c5ccb13ee5090d79bc037e5ebaecf8fadbd52d5f0ae9f"
+            "url": "http://multicommander.com/files/updates/MultiCommander_win32_Portable_(15.5.0.3102).zip",
+            "hash": "68c3532469e09dddbf26f7f0db32fc244cd8c5d1339dbc89075896c615ab0921"
         }
     },
     "bin": "MultiCommander.exe",
