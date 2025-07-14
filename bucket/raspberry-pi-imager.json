@@ -1,10 +1,10 @@
 {
-    "version": "1.9.0",
+    "version": "1.9.5",
     "description": "Tool for writing an Raspberry Pi OS images to SD cards.",
     "homepage": "https://www.raspberrypi.org/software",
     "license": "Apache-2.0",
-    "url": "https://github.com/raspberrypi/rpi-imager/releases/download/v1.9.0/imager-1.9.0.exe#/dl.7z",
-    "hash": "6ecf51f11c6190bd49e95351e8a658f38959ed4bc72b47684a5f1b1a2784ab03",
+    "url": "https://github.com/raspberrypi/rpi-imager/releases/download/v1.9.5/imager-1.9.5.exe#/dl.7z",
+    "hash": "b3440b19bf7d86ca0f723132efee89c38659fd760951e95d584ba748be9e1259",
     "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\uninst*\" -Recurse",
     "bin": "rpi-imager.exe",
     "shortcuts": [
