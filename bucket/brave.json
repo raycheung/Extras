@@ -1,5 +1,5 @@
 {
-    "version": "1.83.106",
+    "version": "1.8.10",
     "description": "Secure, Fast & Private Web Browser with Adblocker",
     "homepage": "https://brave.com",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/brave/brave-browser/releases/download/v1.83.106/brave-v1.83.106-win32-x64.zip",
-            "hash": "47deb6dbbe8d0028760fc444417cd62c436e1bca7d03cb460ebdf342b89cd69d"
+            "url": "https://github.com/brave/brave-browser/releases/download/v1.8.10/brave-v1.8.10-win32-x64.zip",
+            "hash": "8ab3b191b5f530395e0f2221f8f332a6cce5b848c04aa529794e4cb5ed6ece2b"
         },
         "32bit": {
-            "url": "https://github.com/brave/brave-browser/releases/download/v1.83.106/brave-v1.83.106-win32-ia32.zip",
-            "hash": "a6dfcb48a76479e67cadbb6fc870e2de3d9b43d69876436f12957c576e192a12"
+            "url": "https://github.com/brave/brave-browser/releases/download/v1.8.10/brave-v1.8.10-win32-ia32.zip",
+            "hash": "67a9e895867b7b34a4637a84812f9be25bbce25e250938c66bf24027f4d6f99f"
         }
     },
     "bin": [
